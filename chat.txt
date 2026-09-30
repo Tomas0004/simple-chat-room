@@ -24,3 +24,4 @@ null: la respuesta del punto 1 es a
 null: LA VIEJA LOCA ES UNA PERRA LOCA
 null: LA VIEJA LOCA ES UNA PERRA LOCA DE ELECTIVS
 null: LA VIEJA LOCA ES UNA PERRA LOCA DE ELECTIVA
+monica la loca : esto es trampa joven

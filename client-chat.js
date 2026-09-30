@@ -1,6 +1,7 @@
 require('dotenv').config()
 const fs = require('fs');
 const path = require('path');
+const WebSocket = require('ws');
 
 const NAME = process.env.NAME;
 const INPUT_PATH = path.join('./input.txt');

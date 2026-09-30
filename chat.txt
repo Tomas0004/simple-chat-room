@@ -19,3 +19,8 @@ tomas: test 2
 tomas: hola mundo
 Andres: Jorge es gay
 Anónimo: tomas es mas gay
+comepuzzys: electiva 1 es una mierda
+null: la respuesta del punto 1 es a
+null: LA VIEJA LOCA ES UNA PERRA LOCA
+null: LA VIEJA LOCA ES UNA PERRA LOCA DE ELECTIVS
+null: LA VIEJA LOCA ES UNA PERRA LOCA DE ELECTIVA

@@ -17,3 +17,5 @@ tomas: test
 tomas: test
 tomas: test 2
 tomas: hola mundo
+Andres: Jorge es gay
+Anónimo: tomas es mas gay
